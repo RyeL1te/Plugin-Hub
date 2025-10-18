@@ -1,7 +1,6 @@
-# 🔌 Highlite Plugin Hub
-**As of 9/18/2025 Highl1te Development has been paused indefinitely**
+# 🔌 Ryelite Plugin Hub
 
-A centralized repository for managing and distributing Highlite plugins.
+A centralized repository for managing and distributing Ryelite plugins.
 
 ## 📋 Table of Contents
 
@@ -15,7 +14,7 @@ A centralized repository for managing and distributing Highlite plugins.
 
 ## 🎯 Overview
 
-The Highlite Plugin Hub serves as the official registry for Highlite plugins. It provides:
+The Ryelite Plugin Hub serves as the official registry for Ryelite plugins. It provides:
 
 - **Automated Distribution**: Seamless plugin installation and updates
 - **Version Management**: Track and manage plugin versions
