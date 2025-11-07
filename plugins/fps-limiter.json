@@ -1,7 +1,7 @@
 {
   "repository_owner": "RyeL1te",
   "repository_name": "Plugins",
-  "asset_sha": "sha256:76285da921ee4f159cc525c87619db76c6b0e1f228050bb897bc5f61c52c5edb",
+  "asset_sha": "sha256:136072603c8ab8f6fd2e30b072bd0cd56bb6c5ed5477fa4614ad4b26279e0587",
   "display_name": "FPS Limiter",
   "display_author": "Highl1te",
   "display_description": "Allows you to control the FPS of the game so that it doesn't hog system resources."
