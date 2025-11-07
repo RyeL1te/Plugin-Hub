@@ -1,7 +1,7 @@
 {
   "repository_owner": "RyeL1te",
   "repository_name": "Plugins",
-  "asset_sha": "sha256:16cff830b90b28d5f495602680dd6fd9659afa035c5ef8a49da09de7079b32aa",
+  "asset_sha": "sha256:a839ab2e8498b1d388f478a0377d032965d39c721775a5798648c5affcb0320b",
   "display_name": "Trade Alerts",
   "display_author": "Highl1te",
   "display_description": "Allows you to recieve notifications and sound alerts whenever a trade request is recieved."
