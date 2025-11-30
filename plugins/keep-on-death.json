@@ -1,0 +1,8 @@
+{
+    "repository_owner": "wienerWizard",
+    "repository_name": "highspell-keep-on-death",
+    "asset_sha": "sha256:24BCC280DB343A840A722BE57D42BC78FD78B0BA03CC3E8C9FF55B261D9244F2",
+    "display_name": "Keep On Death",
+    "display_author": "wienerWizard",
+    "display_description": "Display which items will be kept, dropped, or destroyed when you die"
+}
